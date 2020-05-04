@@ -1,5 +1,7 @@
 <!-- Used by theme-bio-builtin-2 -->
 
+{% if site.data.bio.awards %}
+
 {% assign hasGrant = false %}
 {% assign hasNonGrant = false %}
 {% for entry in site.data.bio.awards %}
@@ -44,6 +46,7 @@
       {% endif %}
     {% endfor %}
   </div>
+{% endif %}
 {% endif %}
 
 
