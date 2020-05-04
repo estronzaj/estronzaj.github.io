@@ -2,7 +2,7 @@
   "basics": {
     "name": "Jose Estronza",
     "label": "Computer Scientist",
-    "picture": "https://estronzaj.github.io/images/jose-300x300.png",
+    "picture": "https://estronzaj.github.io/images/software-code-300x300.jpg",
     "email": "estronzaj@gmail.com",
     "phone": "",
     "website": "https://estronzaj.github.io",
@@ -44,12 +44,13 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
-        "SQL Server",
-        "JavaScript",
         "asp.net",
+        "C++",
+        "JavaScript",
         "Node.js",
+        "SQL Server",
+        "xml/xslt",
+        "vba",
         "vb.net"
       ]
     },
@@ -59,7 +60,10 @@
       "keywords": [
         "MacOS",
         "Ubuntu",
-        "Git/GitHub"
+        "Git/GitHub",
+        "TortoiseSVN",
+        "WCAG 2.0/Section 508",
+        "HL7"
       ]
     }
   ],
@@ -105,7 +109,7 @@
       "website": "http://www.alliedpr.com/",
       "startDate": "2010-11",
       "endDate": "2013-06",
-      "summary": "",
+      "summary": "Responsible for the development of client/network applications using Object Oriented technology, SQL Server 2005 - 2008, Microsoft Access 2003, Visual Studio 2005-2010, and Microsoft Navision.",
       "highlights": [
         "Developed and maintained inventory systems using Microsoft Dynamics NAV (C/AL), MS Access and MS SQL Server",
         "Installed, supported, and maintained server applications and other computer systems, planned for and responded to service outages and other problems",
@@ -120,7 +124,7 @@
       "website": "",
       "startDate": "2010-03",
       "endDate": "2013-03",
-      "summary": "",
+      "summary": "Responsible for the installation, validation, and maintenance of Standard Army Management Information System (STAMIS) for the Combat Sustainment Support Battalion and separate units; troubleshoots all STAMIS software and hardware issues",
       "highlights": [
         "Responsible for the installation, validation, and maintenance of Standard Army Management Information System (STAMIS) for the Battalion and subordinate units",
         "Troubleshot all Standard Army Management Information Systems (STAMIS) software and hardware issues",
@@ -128,7 +132,9 @@
         "Added STAMIS systems to the network and ensured that File Transfer Protocol (FTP) were properly configured",
         "Provided support for over 100 Logistical Information Systems (LIS) within the Battalion",
         "Provided training and oversight to section personnel on new equipment fielding",
-        "Served as a Systems Administrator for all STAMIS systems and automated logistical programs, providing technical and functional guidance to operators and supervisors"
+        "Served as a Systems Administrator for all STAMIS systems and automated logistical programs, providing technical and functional guidance to operators and supervisors",
+        "Maintained inventory lists and requisitions supplies, materials and repair parts",
+        "Analyzed the quality assurance system and made recommendations for improvements"
       ]
     },
     {
@@ -137,11 +143,27 @@
       "website": "https://www.sanlucaspr.org/hospicio-y-homecare/",
       "startDate": "2015-01-01",
       "endDate": "2016-03-15",
-      "summary": "",
+      "summary": "Analyzed, maintained, troubleshoot and repaired computer systems. Also maintained, upgraded and replaced software and hardware systems.",
       "highlights": [
         "Analyzed, maintained, troubleshot and repaired computer systems",
         "Maintained, upgraded and replaced software and hardware systems, connected computers to the network and set up peripheral equipment, hardware components and allied devices",
         "Loaded software programs/packages and utility applications, installed operating systems, established email accounts, and oversaw upgrades of memory and hard drive systems"
+      ]
+    },
+    {
+      "company": "United States Army",
+      "position": "Human Resource Supervisor/Military Postal Service Supervisor",
+      "website": "",
+      "startDate": "1998-08",
+      "endDate": "2004-09",
+      "summary": "Responsible for a combination of tasks in an APO/JMMT to include accepting and inspecting items for mailing per DoD Postal Manual 4525.6-M, IMM, DMM, ASM, POM, the Postal Operations Division and United States Postal Service and Military Postal Service Agency regulations",
+      "highlights": [
+        "Supervised and coordinated activities of employees engaged in operating word processing equipment to prepare correspondence, records, reports, and similar items, recommended changes in procedures to affect savings in time, labor, and other cost to improve operation efficiency, evaluated job performance of subordinates and recommended appropriate personnel action",
+        "Operated office application suite to compose, type, revise, combine edit, print and store documents, delegating tasks as necessary",
+        "Communicated with employees to explain company personnel policies and procedures and answered questions regarding examinations, eligibility, salaries, benefits, and other pertinent information",
+        "Responsible for a combination of tasks in an APO/JMMT to include accepting and inspecting items for mailing per DoD Postal Manual 4525.6-M, IMM, DMM, ASM, POM, the Postal Operations Division and United States Postal Service and Military Postal Service Agency regulations",
+        "Physically inspected parcels brought by patrons to ensure parcels were 100% free of non-mailable matter, advised customers of postal and custom requirements and determined proper packaging adequacy for acceptance, prepared and affixed routing labels for mail items per the Consolidated Air Massing and Labeling Scheme (CAMALS)",
+        "Received incoming mail from military and commercial carriers and compared manifest against mail for proper receipt, provided locator and directory service utilizing the Theater Unit Locator List, redirected and tracked mail transit times using Transit Time Information Standard System for Military Mail (TTISSMM)"
       ]
     }
   ],
