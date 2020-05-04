@@ -19,9 +19,9 @@ projecturl: https://estronzaj.github.io/travel-site/
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/travel-site-top.png">
-  <img class="ui image" src="../images/travel-site-middle.jpg">
-  <img class="ui image" src="../images/travel-site-bottom.jpg">
+  <img class="ui image" src="../images/projects/travel-site-top.png">
+  <img class="ui image" src="../images/projects/travel-site-middle.jpg">
+  <img class="ui image" src="../images/projects/travel-site-bottom.jpg">
 </div>
 
 Project from my "Git a Web Developer Job: Mastering the Modern Workflow" course.  The project is a travel site build with Node.js, 
