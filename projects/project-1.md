@@ -27,6 +27,7 @@ projecturl: https://estronzaj.github.io/travel-site/
 Project from my "Git a Web Developer Job: Mastering the Modern Workflow" course.  The project is a travel site build with Node.js, 
 NPM, Object-oriented JavaScript, ES6, webpack, Gulp, BEM and a few other tools.
 
+Source: <a href="https://github.com/estronzaj/travel-site"><i class="large github icon"></i>travel-site</a>
 
 
 

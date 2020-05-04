@@ -83,12 +83,11 @@
     {
       "company": "US Food and Drug Administration",
       "position": "Computer Scientist",
-      "website": "https://www.fda.gov/",
+      "website": "https://www.fda.gov",
       "startDate": "2013-07-31",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Full stack web developer responsible for end-to-end development of two web applications.",
       "highlights": [
-        "Full stack web developer responsible for end-to-end development of two web applications",
         "Develops and maintains Intranet and External/Extranet Facing web applications",
         "Production Support - identifies and resolves problems in the front-end experienced by the users",
         "Performs code analysis and, in some cases, reverse engineering to determine whether a particular in­house developed tool might be improved to meet the needs or new requirements",
@@ -106,7 +105,7 @@
     {
       "company": "Allied Logistics Worldwide",
       "position": "Programmer/Systems Analyst",
-      "website": "http://www.alliedpr.com/",
+      "website": "http://www.alliedpr.com",
       "startDate": "2010-11",
       "endDate": "2013-06",
       "summary": "Responsible for the development of client/network applications using Object Oriented technology, SQL Server 2005 - 2008, Microsoft Access 2003, Visual Studio 2005-2010, and Microsoft Navision.",
@@ -124,7 +123,7 @@
       "website": "",
       "startDate": "2010-03",
       "endDate": "2013-03",
-      "summary": "Responsible for the installation, validation, and maintenance of Standard Army Management Information System (STAMIS) for the Combat Sustainment Support Battalion and separate units; troubleshoots all STAMIS software and hardware issues",
+      "summary": "Responsible for the installation, validation, and maintenance of Standard Army Management Information System (STAMIS) for the Combat Sustainment Support Battalion and separate units; troubleshoots all STAMIS software and hardware issues.",
       "highlights": [
         "Responsible for the installation, validation, and maintenance of Standard Army Management Information System (STAMIS) for the Battalion and subordinate units",
         "Troubleshot all Standard Army Management Information Systems (STAMIS) software and hardware issues",
@@ -140,9 +139,9 @@
     {
       "company": "Saint Luke’s Home Care and Hospice",
       "position": "Desktop Support Technician",
-      "website": "https://www.sanlucaspr.org/hospicio-y-homecare/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "website": "https://www.sanlucaspr.org/hospicio-y-homecare",
+      "startDate": "2009-08",
+      "endDate": "2010-11",
       "summary": "Analyzed, maintained, troubleshoot and repaired computer systems. Also maintained, upgraded and replaced software and hardware systems.",
       "highlights": [
         "Analyzed, maintained, troubleshot and repaired computer systems",
@@ -155,7 +154,7 @@
       "position": "Human Resource Supervisor/Military Postal Service Supervisor",
       "website": "",
       "startDate": "1998-08",
-      "endDate": "2004-09",
+      "endDate": "2008-09",
       "summary": "Responsible for a combination of tasks in an APO/JMMT to include accepting and inspecting items for mailing per DoD Postal Manual 4525.6-M, IMM, DMM, ASM, POM, the Postal Operations Division and United States Postal Service and Military Postal Service Agency regulations",
       "highlights": [
         "Supervised and coordinated activities of employees engaged in operating word processing equipment to prepare correspondence, records, reports, and similar items, recommended changes in procedures to affect savings in time, labor, and other cost to improve operation efficiency, evaluated job performance of subordinates and recommended appropriate personnel action",
