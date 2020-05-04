@@ -1,4 +1,4 @@
-<!-- Home page design with small circular image bisecting card. -->
+<!-- Like theme-projects-builtin-1, but does not have the "essays" link. -->
 
 {% assign essay_pages = site.pages | where: "type", "essay"  | where_exp: "page", "page.draft != true" %}
 {% assign project_pages = site.pages | where: "type", "project" | where_exp: "page", "page.draft != true" %}
