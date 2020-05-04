@@ -14,7 +14,7 @@ labels:
   - webpack
   - Gulp
   - Object-oriented
-summary: The project is a travel site created as part of an online course.
+summary: A responsive web application for travel planning.
 projecturl: https://estronzaj.github.io/travel-site/
 ---
 
