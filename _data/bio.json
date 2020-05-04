@@ -1,57 +1,40 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "name": "Jose Estronza",
+    "label": "Computer Scientist",
+    "picture": "https://estronzaj.github.io/images/jose-300x300.png",
+    "email": "estronzaj@gmail.com",
+    "phone": "",
+    "website": "https://estronzaj.github.io",
+    "summary": "I am a Computer Scientist who has been with the MedSun program at the Food and Drug Administration (FDA) program since 2013. After a period in the U.S. Army performing duties as a Network Systems Operator, I earned a B.S. in Computer Science at the University of Puerto Rico. My background includes computer science, software development, CompTIA Network+ and Security+ Certified.",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
+      "postalCode": "20993",
+      "city": "Silver Spring",
       "countryCode": "USA",
-      "region": "Hawaii"
+      "region": "Maryland"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "estronzaj",
+        "url": "http://github.com/estronzaj"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "estronzaj",
+        "url": "http://linkedin.com/in/estronzaj"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "software engineering",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
       ]
     },
     {
       "name": "data mining",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "artificial intelligence",
       "keywords": [
       ]
     }
@@ -63,10 +46,11 @@
       "keywords": [
         "C",
         "C++",
-        "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "SQL Server",
+        "JavaScript",
+        "asp.net",
+        "Node.js",
+        "vb.net"
       ]
     },
     {
@@ -75,19 +59,17 @@
       "keywords": [
         "MacOS",
         "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Git/GitHub"
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "institution": "University of Puerto Rico, Bayamon, PR",
+      "area": "Computer Science",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
+      "startDate": "",
+      "endDate": "2009-06-09",
       "gpa": "",
       "courses": [
       ]
@@ -95,69 +77,110 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "company": "US Food and Drug Administration",
+      "position": "Computer Scientist",
+      "website": "https://www.fda.gov/",
+      "startDate": "2013-07-31",
       "endDate": "Present",
       "summary": "Head of online presence for Ka Leo",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Full stack web developer responsible for end-to-end development of two web applications",
+        "Develops and maintains Intranet and External/Extranet Facing web applications",
+        "Production Support - identifies and resolves problems in the front-end experienced by the users",
+        "Performs code analysis and, in some cases, reverse engineering to determine whether a particular in­house developed tool might be improved to meet the needs or new requirements",
+        "Develops software enhancements based upon analysis of current and projected needs",
+        "Tests pre-release web applications on a 4-stage environment namely: development, test, Pre-Production and production",
+        "Supervises applications testing, review and analysis",
+        "Ensures updates are completely tested based on the agreed specifications, standards and functionality required without defects and possible problems",
+        "Designs project requirements and participates in project meetings with technical staff members, business analysts, and external stakeholders",
+        "Creates and maintains a Change Control Board (CCB) SharePoint web application that is used as a portal for users to request application changes and track application issues",
+        "Identifies areas in need of policy changes and provides recommendations proactively",
+        "Develops and documents related standard operating procedures, verifying accuracy and usability",
+        "Maintains system documentation such as state diagrams, security plans, contingency plans, and validation of users"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
+      "company": "Allied Logistics Worldwide",
+      "position": "Programmer/Systems Analyst",
+      "website": "http://www.alliedpr.com/",
+      "startDate": "2010-11",
+      "endDate": "2013-06",
+      "summary": "",
+      "highlights": [
+        "Developed and maintained inventory systems using Microsoft Dynamics NAV (C/AL), MS Access and MS SQL Server",
+        "Installed, supported, and maintained server applications and other computer systems, planned for and responded to service outages and other problems",
+        "Conducted simple batch programming for ftp uploads, project management for systems-related projects, supervised and trained computer operators, and served as the consultant for computer problems beyond the knowledge of technical support staff",
+        "Troubleshoot software, hardware and networking issues over the phone",
+        "Answer phone and email responses to the ITS Help Desk"
+      ]
+    },
+    {
+      "company": "United States Army Reserve",
+      "position": "Sustainment Automation Support Management Office (SASMO)",
+      "website": "",
+      "startDate": "2010-03",
+      "endDate": "2013-03",
+      "summary": "",
+      "highlights": [
+        "Responsible for the installation, validation, and maintenance of Standard Army Management Information System (STAMIS) for the Battalion and subordinate units",
+        "Troubleshot all Standard Army Management Information Systems (STAMIS) software and hardware issues",
+        "Ensured all STAMIS systems were on the latest Software Change Package (SCP) / Interim Change Package (ICP)",
+        "Added STAMIS systems to the network and ensured that File Transfer Protocol (FTP) were properly configured",
+        "Provided support for over 100 Logistical Information Systems (LIS) within the Battalion",
+        "Provided training and oversight to section personnel on new equipment fielding",
+        "Served as a Systems Administrator for all STAMIS systems and automated logistical programs, providing technical and functional guidance to operators and supervisors"
+      ]
+    },
+    {
+      "company": "Saint Luke’s Home Care and Hospice",
+      "position": "Desktop Support Technician",
+      "website": "https://www.sanlucaspr.org/hospicio-y-homecare/",
       "startDate": "2015-01-01",
       "endDate": "2016-03-15",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Analyzed, maintained, troubleshot and repaired computer systems",
+        "Maintained, upgraded and replaced software and hardware systems, connected computers to the network and set up peripheral equipment, hardware components and allied devices",
+        "Loaded software programs/packages and utility applications, installed operating systems, established email accounts, and oversaw upgrades of memory and hard drive systems"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "",
+      "website": "",
+      "position": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "",
+        ""
       ]
     },
     {
       "organization": "",
       "website": "",
-      "position": "Professional organization involvement",
+      "position": "",
       "startDate": "",
       "endDate": "",
       "summary": "",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
     }
   ],
   "references": [
