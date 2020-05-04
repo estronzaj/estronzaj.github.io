@@ -21,9 +21,9 @@ summary: A responsive web application for travel planning.
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/projects/travel-site-top.png">
-  <img class="ui image" src="../images/projects/travel-site-middle.jpg">
-  <img class="ui image" src="../images/projects/travel-site-bottom.jpg">
+  <img class="ui image" src="../images/projects/travel-site1-1024x768.png">
+  <img class="ui image" src="../images/projects/travel-site2-1024x768.jpg">
+  <img class="ui image" src="../images/projects/travel-site3-1024x768.jpg">
 </div>
 
 Project from my "Git a Web Developer Job: Mastering the Modern Workflow" course.  The project is a travel site build with Node.js, 
