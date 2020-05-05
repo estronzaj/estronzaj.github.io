@@ -12,6 +12,7 @@ labels:
   - CSS
   - Responsive 
   - GitHub
+  - Portfolio
 summary: A responsive portfolio website created using JavaScript and HTML.
 ---
 

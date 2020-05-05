@@ -44,26 +44,42 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "asp.net",
-        "C++",
+        "ASP.NET",
+        "VB.NET",
         "JavaScript",
+        "HTML",
+        "CSS",
+        "XML",
+        "XSLT",
+        "VBA",
+        "VBScript",
+        "C++",
         "Node.js",
-        "SQL Server",
-        "xml/xslt",
-        "vba",
-        "vb.net"
+        "Python"
+      ]
+    },
+    {
+      "name": "Databases",
+      "level": "",
+      "keywords": [
+        "MS SQL Server",
+        "MongoDB",
+        "Oracle"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Ubuntu",
         "Git/GitHub",
         "TortoiseSVN",
-        "WCAG 2.0/Section 508",
-        "HL7"
+        "JSON",
+        "Section 508",
+        "WCAG 2.0", 
+        "HL7",
+        "MacOS",
+        "Ubuntu",
+        "NPM"
       ]
     }
   ],
