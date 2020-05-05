@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/projects/travel-site1-300x314.png
-title: travel-site
+title: Travel Site
 permalink: projects/travel-site
 # All dates must be YYYY-MM-DD format!
 date: 2019-03-02

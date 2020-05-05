@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/projects/portfolio-red1-300x314.png
-title: Portfolio
+title: Personal Portfolio
 permalink: projects/portfolio
 # All dates must be YYYY-MM-DD format!
 date: 2019-03-02
